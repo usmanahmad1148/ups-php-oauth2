@@ -1,8 +1,7 @@
 {
     "name": "usmanahmad/upsoauth2",
-    "description": "A package for integrating UPSOAuth 2.0 with UPS",
+    "description": "A package for integrating UPS OAuth 2.0 with UPS",
     "require": {
-        "guzzle/guzzle": "^3.9.0",
         "guzzlehttp/guzzle": "^7.9"
     },
     "autoload": {
