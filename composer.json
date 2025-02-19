@@ -1,0 +1,20 @@
+{
+    "name": "usmanahmad/upsoauth2",
+    "description": "A package for integrating UPS OAuth 2.0 with UPS",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9" 
+    },
+    "autoload": {
+        "psr-4": {
+            "UsmanAhmad\\UPSOAuth2\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Usman Ahmad",
+            "email": "usmanahmad1148@hotmail.com"
+        }
+    ]
+}
+ 
